@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650261602 source:c:\users\klaus\desktop\dsspring\project3\main.cpp
+	<iostream>
+	<chrono>
+	<iterator>
+	<set>
+	<algorithm>
+
